@@ -1,2 +1,2 @@
-#FE Project intern
+FE Project intern
 React typescript
