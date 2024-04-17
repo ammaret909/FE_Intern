@@ -1,2 +1,3 @@
-FE Project intern
-React typescript
+#FE Project intern
+#React typescript
+#Tailwind daisyUI
